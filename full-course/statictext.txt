@@ -1,0 +1,20 @@
+static ip 
+laodbalancing
+enterprise & TLs laodbalancing
+path/host based loadblancing
+ratio based - load balancing
+ingress:
+	open shift route - routes
+	- create ingrsss resource
+	- used by ingress controller
+		- create a yaml file to use for routing
+		- a resource / controller needs to be in place
+		- company to choose ingress ctrlr  (use nginx/f5/ api-gateway)
+
+
+
+
+
+pnmirb
+
+Python Demo
