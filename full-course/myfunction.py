@@ -3,7 +3,7 @@ def myfunction(fname):
 
 
 
-myfunction("Mohamad")
+myfunction("Mo")
 myfunction("Jallow")
 myfunction("mjallow")
     
