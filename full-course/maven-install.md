@@ -102,6 +102,4 @@ Minimum reqs for a POM file: min regs elements are;
 - maven port can be changed by updating tomcat server.port=8181
 
 
-`{5802C908-C90B-40D9-AEE9-A83C333221FB}.msi `
 
-That is so funny! :joy:
